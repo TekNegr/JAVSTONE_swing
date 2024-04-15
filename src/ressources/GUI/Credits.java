@@ -20,6 +20,7 @@ public class Credits extends swingControler{
                 CREATEURS : \n
                 Henintsoa RAMAKAVELO\n
                 Xavier OGANDAGA\n
+                Malick MAo
                 \n
                 RESSOURCES : \n
                 Front : java swing (auteur : Oracle)\n
